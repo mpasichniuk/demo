@@ -90,6 +90,12 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>io.devbench.uibuilder.components</groupId>
+            <artifactId>uibuilder-detail-panel</artifactId>
+            <version>2.1.2</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>
